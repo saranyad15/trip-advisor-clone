@@ -22,8 +22,8 @@ The goal of this project is to replicate the layout and design of TripAdvisor's 
 🛠️HTML: Structure of the webpage
 🖌️CSS: Styling and layout of the page
 
-## How to Run Locally
-Clone the repository to your local machine:
+## How to View
+You can access my trip advisor website by visiting [] Feel free to explore the content and get in touch!
 
 ## Contributing
 Feel free to fork the repository, make changes, and submit pull requests. Any contributions or improvements are welcome!

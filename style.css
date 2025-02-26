@@ -339,9 +339,6 @@ body{
     .course-card{
         flex-basis: 40%;
     }
-    .banner-trip{
-        flex-basis: 50%; 
-    }
     
 }
 }

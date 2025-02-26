@@ -129,13 +129,17 @@ body{
     width: 100%;
 }
 .searchbar button {
-    background: #34E0A1 !important;
+    background: #34E0A1;
     padding: 15px;
     border-radius: 50px;
     width: 130px;
     font-size: 16px;
     font-weight: 700;
     border: none;
+    cursor: pointer;
+}
+.searchbar button:hover{
+    background-color: #77edc2;
 }
 /*-banner-*/
 
@@ -212,7 +216,18 @@ body{
 
 .course-card{
     padding-bottom: 20px;
-
+    position: relative;
+}
+.course-card__text h1{
+    position: absolute;
+    color: white;
+    top: 72%;
+    font-size: 30px;
+    background: linear-gradient(0deg, black, transparent);
+    width: 100%;
+    height: 20%;
+    border-radius: 18px;
+    cursor: pointer;
 }
 .course-card h3{
     font-size: 20px;
